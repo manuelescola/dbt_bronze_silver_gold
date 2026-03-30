@@ -169,3 +169,5 @@ This project demonstrates:
 - dbt project organization and best practices
 - Data quality testing with dbt
 
+
+## 🎯 Thanks!  
