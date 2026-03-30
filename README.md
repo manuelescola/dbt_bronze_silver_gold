@@ -170,4 +170,4 @@ This project demonstrates:
 - Data quality testing with dbt
 
 
-## 🎯 Thanks!  
+## Thanks!  
